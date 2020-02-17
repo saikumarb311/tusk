@@ -3,7 +3,8 @@ welcome to python
 djando
 flask
 bottle 
-
+pyramid
+c
 
 thanks
 
